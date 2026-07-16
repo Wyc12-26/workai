@@ -1,0 +1,15 @@
+D:\代码\agent\workai\backend\src\main\java\com\workai\exception\GlobalExceptionHandler.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\config\MyBatisPlusConfig.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\controller\FileController.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\mapper\ConversationMapper.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\entity\Message.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\config\CorsConfig.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\service\FileService.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\entity\Conversation.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\dto\ChatRequest.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\controller\ChatController.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\config\MyMetaObjectHandler.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\service\ConversationService.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\mapper\MessageMapper.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\WorkAiApplication.java
+D:\代码\agent\workai\backend\src\main\java\com\workai\service\ChatService.java

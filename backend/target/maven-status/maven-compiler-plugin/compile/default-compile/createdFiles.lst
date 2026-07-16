@@ -1,0 +1,16 @@
+com\workai\config\CorsConfig.class
+com\workai\config\MyBatisPlusConfig.class
+com\workai\entity\Message.class
+com\workai\WorkAiApplication.class
+com\workai\mapper\MessageMapper.class
+com\workai\controller\FileController.class
+com\workai\service\ConversationService.class
+com\workai\exception\GlobalExceptionHandler.class
+com\workai\service\ChatService.class
+com\workai\dto\ChatRequest$ChatRequestBuilder.class
+com\workai\service\FileService.class
+com\workai\dto\ChatRequest.class
+com\workai\entity\Conversation.class
+com\workai\config\MyMetaObjectHandler.class
+com\workai\controller\ChatController.class
+com\workai\mapper\ConversationMapper.class
